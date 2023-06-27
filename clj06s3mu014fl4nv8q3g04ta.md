@@ -1,7 +1,7 @@
 ---
 title: "Building the Future of Security Operations with Automation"
-seoTitle: "Automating Future Security Operations Development"
-seoDescription: "Improve security with automation for quicker threat detection, efficient workflows, and minimized human error, boosting overall protection"
+seoTitle: "Building the Future of Security Operations with Automation"
+seoDescription: "Optimize security operations with automation for better threat detection, efficient workflows, and minimized human error, boosting security posture"
 datePublished: Sat Jun 17 2023 16:01:39 GMT+0000 (Coordinated Universal Time)
 cuid: clj06s3mu014fl4nv8q3g04ta
 slug: building-the-future-of-security-operations-with-automation
