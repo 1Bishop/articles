@@ -10,7 +10,7 @@ tags: security, machine-learning, automation, cybersecurity-1
 
 ---
 
-<details data-node-type="hn-details-summary"><summary>More Coming Soon!</summary><div data-type="detailsContent">This is just the first article in a series about how to build a world-class Security Operation Center.</div></details>
+<details data-node-type="hn-details-summary"><summary>More Coming Soon!</summary><div data-type="detailsContent">This is just the first article in a series about how to build a world-class Security Operation Center. Sign up for my newsletter to get notifications for when my next article is released 📣</div></details>
 
 ## Introduction
 
