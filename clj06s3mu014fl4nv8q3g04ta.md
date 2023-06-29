@@ -10,7 +10,7 @@ tags: security, machine-learning, automation, cybersecurity-1
 
 ---
 
-<details data-node-type="hn-details-summary"><summary>TLDR;</summary><div data-type="detailsContent">Building the future of security operations with automation offers enhanced threat detection and response, streamlined workflows, and reduced human error, leading to improved overall security posture.</div></details>
+<details data-node-type="hn-details-summary"><summary>More Coming Soon!</summary><div data-type="detailsContent">This is just the first article in a series about how to build a world-class Security Operation Center.</div></details>
 
 ## Introduction
 
@@ -40,6 +40,6 @@ In conclusion, automation in security operations offers numerous benefits, inclu
 
 ---
 
-If this article was interesting to you and would like to learn more please let me know with a like and comment with any questions or topics you would like for me to cover next! 😊
+If you found this article interesting and would like to learn more, please let me know by giving it a like ♥️ and leaving a comment 💬 with any questions or topics you'd like me to cover next in this "Building a World Class Security Operations" series! 😊
 
 ![](https://media.giphy.com/media/PlLanl8Bzcvr14IfjJ/giphy.gif align="center")
